@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.plainid.ext;
+package com.test.ext;
 
 import org.apache.knox.gateway.filter.AbstractGatewayFilter;
 import org.apache.knox.gateway.filter.rewrite.impl.UrlRewriteRequest;
